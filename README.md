@@ -9,7 +9,7 @@ I'm a Software Engineer and MS Data Analytics student at Seattle Pacific Univers
 
 
 ### Technical Skills
-Python | SQL | Pandas | NumPy | Streamlit | Plotly | Scikit-learn
+C# | .NET | ASP.NET Core | Microsoft SQL Server | Python | SQL | Pandas | NumPy | Streamlit | Plotly | Scikit-learn | Git | GitHub
 
 ### Featured Project
 
