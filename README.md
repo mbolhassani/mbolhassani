@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm Maryma Bolhassani,
 
-<!--
-**mbolhassani/mbolhassani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer and MS Data Analytics student at Seattle Pacific University.
 
-Here are some ideas to get you started:
+### Areas of Interest
+- Data Analytics and Visualization
+- Python and SQL
+- Machine Learning
+- Financial Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+Python | SQL | Pandas | NumPy | Streamlit | Plotly | Scikit-learn
+
+### Featured Project
+
+**[NVIDIA Stock Analysis](https://github.com/mbolhassani/nvidia-stock-analysis)**
+
+An interactive stock analysis and machine learning dashboard built with Python and Streamlit.
+
+### Education
+MS in Data Analytics in Business  
+Seattle Pacific University
