@@ -20,3 +20,6 @@ An interactive stock analysis and machine learning dashboard built with Python a
 ### Education
 MS in Data Analytics in Business  
 Seattle Pacific University
+
+MS in Engineering
+Polytechnic University of Milan
