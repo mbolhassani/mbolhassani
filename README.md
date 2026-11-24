@@ -6,7 +6,7 @@ I'm a Software Engineer and MS Data Analytics student at Seattle Pacific Univers
 - Data Analytics and Visualization
 - Python and SQL
 - Machine Learning
-- Financial Data Analysis
+
 
 ### Technical Skills
 Python | SQL | Pandas | NumPy | Streamlit | Plotly | Scikit-learn
